@@ -1,0 +1,31 @@
+#admissao_funcio{
+	width: 315px;
+}
+#salario_funcio{
+	width: 315px;
+}
+#divsalario{
+	margin-left: 52%;
+	margin-top: -55px;
+}
+#cpf_funcio{
+	width: 315px;
+}
+#telefone_funcio{
+	width: 315px;
+}
+.posicionatel{
+	margin-left: 52%;
+	margin-top: -55px;
+}
+#nascimento_funcio{
+	width: 315px;
+}
+#numero_funcio{
+	width: 150px;
+}
+#positionButton{
+	position: relative;
+	text-align: right;
+
+}

@@ -1,0 +1,46 @@
+#valor_table_tr{
+	background: #333;
+	color: #FFFF;
+}
+
+#div_label_total{
+	float: left;
+	width: 30%;
+	height: 39px;
+	margin-left: 2%;
+}
+#div_mostra_valor_total{
+	width: 48%;
+	height: 39px;
+	margin-left: 31%;
+}
+#div_btn_concluir{
+	float: right;
+	width: 20%;
+	height: 39px;
+}
+
+#div_mostra_valor_total #span_mostra_valor_total{
+	float: right;
+	margin-right: 2%;
+}
+#div_btn_concluir span{
+	float: right;
+	width: 90%;
+	margin-top: 2%;
+	margin-right: 2%;
+}
+
+.valor_total_td{
+	height: 30px;
+}
+#valor_tt{
+	text-align: left;
+	border: 1px solid #FFFF;
+}
+#titulo_valor{
+	text-align: left;
+}
+#valor_table_tr{
+	border: 1px solid #FFFF;
+}

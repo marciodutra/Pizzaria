@@ -1,0 +1,96 @@
+/*############ Referente aos Botões###########*/
+#btnCadastrarProduto{
+	position: relative;
+	margin-bottom: 20px;
+}
+#btnBuscarCliente{
+	position: relative;
+	margin-top: 1%;
+	margin-left: 110%;
+	top: -35px;
+}
+
+#btnBuscarProduto{
+	position: relative;
+	margin-top: 1%;
+	margin-left: 110%;
+	top: -35px;
+}
+#btnInserirProduto{
+	float: left;
+	margin-left: 50%;
+	width: 50%;
+}
+/*#####################################*/
+
+#posiciona_form{
+	position: relative;
+	margin-top: 40%;	
+}
+
+/*#########Corpo do CSS ###########*/
+#container{
+	float: left;
+	position: relative;
+	top: 30px;
+	margin-left: 5%;
+	top: 35px;		
+
+}
+/*###################################*/
+
+#buscar_produto{
+	position: relative;
+	margin-top: 40%;
+}
+#posiciona_form{
+	position: relative;
+	top: -100px;
+}
+
+#nome_cliente{
+	width: 100%;
+
+}
+#codigo_produto{
+	width: 100%;
+}
+#nome_produto{
+	width: 100%;
+}
+#valor_produto{
+	width: 50%;
+}
+#cod_produto{
+	width: 50%;
+}
+#quantidade{
+	width: 50%;
+}
+/*############## Referente à tabela ################*/
+
+#posicionaItem{
+	float: right;
+	margin-top: 5%;	
+	margin-right: 5%;
+}
+#cabecaTable{
+	background-color: #DDcc00;
+}
+#tableitem{
+	width: 600px;
+}
+#finalizarCompra{
+	position:fixed;
+	margin-left: 17%;
+    bottom:15%;
+    width:100%;	
+}
+#btnFinalizarCompra{
+	position: relative;
+	top: 1%;
+
+}
+
+
+/*###############################################*/

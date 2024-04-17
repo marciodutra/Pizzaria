@@ -1,0 +1,118 @@
+/*CSS Geral de estilo*/
+body{
+	background: #9C9C9C;
+
+}
+#container{
+	position: relative;
+}
+.form-control{
+	width: 40%;
+}
+.divs{
+	position: relative;
+	background: #FFFFFF;
+	width: 48%;
+	height: 500px;
+	margin-top: 8%;
+}
+#campos_pedidos{
+	float: left;
+	margin-left: 2%;
+	border: 1px solid #EEE9E9;
+	
+}
+#tabela_pedidos{
+	float: right;
+	margin-right: 2%;
+	border: 1px solid #EEE9E9;
+	border-left: 4px solid #ADD8E6;
+}
+fieldset{
+	height: 600px; 		
+}
+/*###############################################################*/
+/*CSS Especifico */
+#buscar_cliente{
+	position: relative;
+	width: 100%;
+}
+#label_pedido{
+	position: relative;
+	margin-left: 4%;
+}
+#numero_pedido{
+	position: relative;
+	width: 20%;
+	margin-left: 4%;
+}
+
+#nome_cliente{
+	position: relative;
+	margin-left: 27%;
+	width: 49%;
+	top: -30px;
+}
+#btnIniciarPedido{
+	position: relative;
+	width: 18%;
+	margin-left: 80%;
+	top: -63px;
+
+}
+#buscar_produto{
+	position: 
+}
+#codigo_produto{
+	position: relative;
+	width: 50%;
+	margin-left: 4%;
+}
+#btnBuscarProduto{
+	width: 18%;
+	margin-left:  58%;
+	margin-top: -58px;
+}
+#posiciona_form{
+	position: relative;
+	margin-left: 4%;
+}
+
+/*##############################################################*/
+/*CSS da Tabela de itens*/
+
+#tableitem{
+	position: relative;
+	width: 100%;
+}
+#topo_tabela{
+	background-color: #1C1C1C;
+	color: #FFFFFF;
+}
+td{
+	text-align: center;
+}
+#corpo_tabela:hover{
+	background-color: #D3D3D3;
+}
+#finalizarCompra{
+	position: absolute;
+	width: 100%;
+	height: 40px;
+	background-color: #333;
+	color: #FFFF;
+	font-size: 150%;
+	border: 1px solid #9C9C9C;
+	bottom: 0;
+}
+
+#valor_total_input{
+	position: relative;
+	margin-left: 30%;
+	border-color: #B5B5B5;
+	top: 2px;
+	
+}
+
+
+/*################### Fim do CSS da tabel de itens ########################## */

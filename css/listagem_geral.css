@@ -1,0 +1,43 @@
+#cabecalho_pesquisa{
+	position: relative;
+	margin-top: 4%;
+}
+#mostra_data{
+	position: relative;
+	margin-left: 10%;
+	font-size: 20px;
+}
+#pesquisa{
+	
+position: relative;
+width: 100%;
+margin-left: 10%;
+
+}
+#pesquisa input{
+	position: relative;
+	width: 25%;
+}
+#pesquisa button{
+	position: relative;
+	margin-left: 30%;
+	margin-top: -60px;
+	border-bottom: 1px solid #DCDCDC;
+	
+}
+
+table{
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
+}
+table #topo_tabela{
+	background-color: #1C1C1C;
+	color: #FFFFFF;
+}
+#corpo_tabela td{
+	height: 27px;
+}
+#corpo_tabela:hover{
+	background-color: #D3D3D3;
+}
